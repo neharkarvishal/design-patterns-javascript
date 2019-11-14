@@ -1,0 +1,25 @@
+{
+  "name": "design-patterns-javascript",
+  "version": "0.1.0",
+  "description": "Design Patterns in Javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neharkarvishal/design-patterns-javascript.git"
+  },
+  "author": "neharkar.vishal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neharkarvishal/design-patterns-javascript/issues"
+  },
+  "homepage": "https://github.com/neharkarvishal/design-patterns-javascript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
