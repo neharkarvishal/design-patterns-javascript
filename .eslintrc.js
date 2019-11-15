@@ -22,7 +22,7 @@ module.exports = {
     "consistent-return": "off",
     "no-param-reassign": "off",
     "import/no-dynamic-require": "off",
-    "linebreak-style": ["error", "windows"],
+    "linebreak-style": ["error", "unix"],
     "no-multiple-empty-lines": ["error", { "max": 1, "maxBOF": 1 }],
     "max-len": ["error", 80, 2, {
       ignoreUrls: true,
